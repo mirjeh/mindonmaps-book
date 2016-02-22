@@ -4,7 +4,7 @@
 ◊img['src: "/book/images/learn-new/learn-new-main.png"]
 
 ◊h1{Learn something new}
-
+MIKSI TÄMÄ KAPPALE ON MAP YOUR LIFE ALLA?
 ◊leading-words{Some people} believe that learning is hard. Sure, it can be hard at times, but there are ways to make it easier. Know yourself, make a plan and immerse yourself in the subject. Make sure you have a solid idea of what learning means in the first place.
 
 And create a mind map for that.
@@ -76,4 +76,4 @@ Come back to your mind maps again after a day or two, a week, a month, a year, e
 
 —
 
-What about the autopilot? Everything that is not part of your daily routine is going to require extra effort from you and is at the risk of being forgotten. What if consciously exploring and learning new was part of your routine? What could you learn in a year? In five years? I’d be curious.
+TÄMÄ VIKA KAPPALE MENEE MULTA VÄHÄN OHI, MIHIN TÄÄ LIITTY? What about the autopilot? Everything that is not part of your daily routine is going to require extra effort from you and is at the risk of being forgotten. What if consciously exploring and learning new was part of your routine? What could you learn in a year? In five years? I’d be curious.
