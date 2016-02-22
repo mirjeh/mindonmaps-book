@@ -38,7 +38,7 @@ Start a new map and start answering those questions. Again, don’t think too mu
 
 When you have the big picture it’s time to brainstorm and to generate lots of ideas on how to get moving in the desired direction. First, write down everything that comes to mind. Everything. The quantity of ideas is more important than quality. The most common way that I see people get stuck here is their reaction to dumb ideas. The ideas themselves are not smart or dumb. You just think they are one or the other. Writing them all down allows you to bypass the knee-jerk reaction of dismissing them offhand. Just keep on generating them. Maybe the first ten or twenty aren’t that great, but the good and fantastic ones will come, eventually.
 
-◊img['src: "/book/images/define-future/define-future_steps.png"]
+◊img['src: "/book/images/define-future/define-future_steps.png"] KUVAN KESKIMMÄINEN OSIO "to know one next step is often enough..." PUUTTUU TEKSTISTÄ
 
 After you have a long list of ideas, you can pick the best ones and refine them further. Sometimes you need to clarify facts about your current situation to get a realistic view of the size of gap you need to cross and what is the best first action. Turn the selected ideas to small, concrete action steps. Exactly how small and how specific the steps need to be is personal. For some it’s enough to have a list of keywords to focus on during the week, and they’ll get the things done. Others need more elaboration. “On next Monday at 14:00 I’ll spend 30 minutes online searching for people with similar interests and goals”. If you are not getting things done, keep splitting them into even smaller and more detailed tasks. You’ll soon find the right task size and level of detail for you.
 
