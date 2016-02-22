@@ -4,7 +4,7 @@
 ◊img['src: "/book/images/learn-new/learn-new-main.png"]
 
 ◊h1{Learn something new}
-MIKSI TÄMÄ KAPPALE ON MAP YOUR LIFE ALLA?
+
 ◊leading-words{Some people} believe that learning is hard. Sure, it can be hard at times, but there are ways to make it easier. Know yourself, make a plan and immerse yourself in the subject. Make sure you have a solid idea of what learning means in the first place.
 
 And create a mind map for that.
