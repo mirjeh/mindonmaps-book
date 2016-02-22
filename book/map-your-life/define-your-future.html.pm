@@ -18,7 +18,8 @@ You can plan for a specific project or a calendar year. The plans can be persona
 }
 }
 
-There’s a whole literature out there discussing how to plan effectively. Here, I’ll introduce you the two concepts that I consider to be the most useful in personal life planning. Start with a generic and long term direction you want to be moving towards, and bring it down to small and specific next steps. A clear direction gives you motivation and meaning; actionable next steps help you keep moving and get things done. Everything else is secondary.
+There’s a whole literature out there discussing how to plan effectively. Here, I’ll introduce you the two concepts that I consider to be the most useful in personal life planning. Start with a generic and long term direction you want to be moving towards, and bring it down to small and specific next steps. A clear direction gives you motivation and meaning; actionable next steps help you keep moving and get things done. Everything else is secondary. 
+SAMA VIIMEINEN LAUSE KUIN EDELLISESSÄ KAPPALEESSA
 
 ◊h2{The Direction}
 
