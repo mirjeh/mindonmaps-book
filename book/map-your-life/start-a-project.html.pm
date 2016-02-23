@@ -15,6 +15,7 @@ It's useful to separate the management of the project from the actual content. W
 ◊h2{Content}
 
 If you run your own one man project you need to put your hands in the dirt as well. In the case of a book writing project the main content is the content of the book. The actual text is probably edited somewhere else, but part of the process can be done in mind maps, such as all the ideas and notes about how to improve the text, as well as the outline of the whole book. I call those things content that are the most closely related to the outcome you are after. The specification of the house you are going to build, the words and phrases of the new language you are learning and so on. You can think of content as opposed to management, that is more concerned about organizing the work than the actual details. 
+VIIMEINEN LAUSE EI AUTTANUT MINUA YMMÄRTÄMÄÄN MISTÄ ON KYSE
 
 ◊h2{Resources}
 
